@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.xh.bfhq</string>
+                <string>com.gwpd.03.h5</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>2.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>nb210</string>
+                <string>03</string>
             </dict>
         </dict>
     </array>
