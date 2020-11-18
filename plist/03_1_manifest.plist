@@ -19,11 +19,11 @@
                 <key>bundle-identifier</key>
                 <string>com.gwpd.03.h5</string>
                 <key>bundle-version</key>
-                <string>2.0.0</string>
+                <string>1.0.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>03 體驗帳號測試</string>
+                <string>03殼包測試包</string>
             </dict>
         </dict>
     </array>
