@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.gwpd.03.h5</string>
+                <string>com.gwpd.03.app</string>
                 <key>bundle-version</key>
-                <string>1.0.2</string>
+                <string>2.0.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>03殼包測試包</string>
+                <string>新智选_送審包_還原模式</string>
             </dict>
         </dict>
     </array>

@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.setl.gts2</string>
+                <string>com.gwpd.03.app</string>
                 <key>bundle-version</key>
                 <string>2.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>新智选_送審包</string>
+                <string>新智选_送審包_送審模式</string>
             </dict>
         </dict>
     </array>
