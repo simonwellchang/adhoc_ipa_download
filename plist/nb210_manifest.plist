@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.jd.jdglobal</string>
+                <string>com.bf.bfchihuo</string>
                 <key>bundle-version</key>
                 <string>2.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>新柏富_送審包_送審模式</string>
+                <string>新柏富(柏富期货)_送审包</string>
             </dict>
         </dict>
     </array>
