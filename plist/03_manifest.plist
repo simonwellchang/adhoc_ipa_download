@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.gwpd.03.app</string>
+                <string>com.storchen.financial</string>
                 <key>bundle-version</key>
                 <string>2.0.0</string>
                 <key>kind</key>
