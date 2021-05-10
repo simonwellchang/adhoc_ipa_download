@@ -1,0 +1,22 @@
+{
+    "http": {
+        "socketUrl": {
+            "des": "",
+            "url": "ReCIVz5OX/U0vm66LFarc3l64z6P+QBztlsQDONtlWBXRMn1ATx48Th9bI9TMi/u"
+        },
+        "baseUrl": {
+            "des": "",
+            "url": "VAOG5UKTY/cjxd4peG725WzV9jSuwr2LLMSNYY5nm7cG05IU8pN/mtOD+26/J+9X"
+        },
+        "businessDomain": {
+            "des": "",
+            "url": "0ZhHwPiUtMR/GtG+I4zkWXe53AJbUGmlCWrX2prHFB0="
+        }
+    },
+    "CUSTOM": {
+        "setting": {
+            "des": "",
+            "url": "Njn+ogB8A0XAAGKxvTn+uA=="
+        }
+    }
+}
