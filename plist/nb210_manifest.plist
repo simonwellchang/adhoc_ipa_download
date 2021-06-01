@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.new.hong.xu.financial</string>
+                <string>com.cwfina</string>
                 <key>bundle-version</key>
                 <string>2.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>柏富股指_審核包</string>
+                <string>柏富智投_審核包</string>
             </dict>
         </dict>
     </array>
