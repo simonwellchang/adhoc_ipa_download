@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.changfeng.financial</string>
+                <string>com.gwpd.03.app</string>
                 <key>bundle-version</key>
                 <string>2.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>智選易投_送審包</string>
+                <string>智選_超級簽包</string>
             </dict>
         </dict>
     </array>
