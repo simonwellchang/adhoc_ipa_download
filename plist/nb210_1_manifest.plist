@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.bf.bfchihuo</string>
+                <string>com.cwfina</string>
                 <key>bundle-version</key>
                 <string>2.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>柏富體驗包</string>
+                <string>柏富智投_審核後</string>
             </dict>
         </dict>
     </array>
