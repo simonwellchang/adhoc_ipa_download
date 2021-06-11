@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.gwpd.03.app</string>
+                <string>com.silkroadfh</string>
                 <key>bundle-version</key>
-                <string>2.0.1</string>
+                <string>2.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>新智选_送審包_還原模式</string>
+                <string>智選策略_過審前包</string>
             </dict>
         </dict>
     </array>
